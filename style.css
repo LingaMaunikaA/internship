@@ -1,0 +1,44 @@
+.header {
+    text-align: center;
+}
+.navbar {
+    overflow: scroll;
+    background-color: #333;
+}
+
+.navbar a {
+    float: right;
+    display: block;
+    color: white;
+    text-align:right ;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.navbar img{
+    max-width: 100px; 
+}
+.shop{
+   margin-top: 40px;
+    display: flex ;
+    margin-left: 10%;
+   
+}
+.h{
+    text-align: center;
+}
+label{
+    font-size: 75px;
+}
+.id{
+    margin-top:2%;
+    font-size: 50px;
+}
+.ru{
+    margin-top: 2%;
+    font-size: 50px;
+    display: inline-block;
+}
+.but{
+    display: inline-block;
+    margin-bottom: 25%;
+}
